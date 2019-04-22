@@ -1,0 +1,13 @@
+# Ex. 1: with double quotes...also used for string interpolation
+"The man said, 'Hi there!'"
+
+# Ex 2: with single quotes and escaping
+'The man said, \'Hi there!\''
+
+# Examples of symbols
+:name
+:a_symbol
+:"surprisingly, this is also a symbol"
+
+irb :001 > "Hello, World".nil?
+=> false

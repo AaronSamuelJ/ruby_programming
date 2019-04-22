@@ -1,0 +1,19 @@
+RubyGems  RubyInstaller with DevKit  
+ruby -v  outputs ruby version
+gem -v   outputs Rubygems version
+
+ruby-doc.org  Class name or Module name
+:: namespace, also class method ::new
+# instance method symbol         #split
+Object is parent of String class
+classes come with modules like Comparable for String class
+
+CLI
+mkdir  CD   touch   rm   rmdir  rm  -R
+
+irb  Pry
+gem install <gem name>
+Gemfile
+
+require "pry
+binding.pry   #execution will halt, allowing testing of environment.  Ctrl + D to continue execution.
