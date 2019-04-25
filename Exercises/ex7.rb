@@ -7,4 +7,4 @@ else
   puts "These hashes are not the same!"
 end
 
-# => "These hashes are not the same!"
+# => "These hashes are the same!"
